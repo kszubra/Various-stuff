@@ -1,4 +1,4 @@
-package domain;
+package kodillaspringhibernatecourse;
 
 import org.coursesandsandbox.kodilla.springhibernatecourse.jpavshibernate.domain.Customer;
 import org.junit.jupiter.api.Test;
